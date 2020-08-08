@@ -7,5 +7,6 @@ package com.atguigu.atcrowdfunding;
 public class love {
     public static void main(String[] args) {
         System.out.println("I love you");
+        System.out.println("I is yingzi");
     }
 }
